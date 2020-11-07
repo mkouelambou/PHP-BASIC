@@ -1,13 +1,12 @@
 <?php
 $voornaam = "Mike";
-echo gettype($voornaam)."!\n";
-echo "\n";
+echo gettype($voornaam)."\n";
 $age =  17;
-echo gettype($age) ."!\n";
+echo gettype($age) ."\n";
 $x = 20.001;
-echo gettype ($x)."!\n";
+echo gettype ($x)."\n";
 $test = true;
-echo gettype ($test)."!\n";
+echo gettype ($test)."\n";
 $x = null;
-echo gettype($x)."!\n";
+echo gettype($x)."\n";
 ?>
