@@ -1,8 +1,11 @@
-<?php
-$menu1 = "Speelgoed";
-$menu2 = "Elektronica";
-$menu3 = "Kleding";
-echo $menu1  = "<li>Speelgoed</li>";
-echo $menu2  = "<li>Elektronica</li>";
-echo $menu3  = "<li>Kleding</li>";
-?>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <ul>
+        <li>Menu-item 1</li>
+        <li>Menu-item 2</li>
+        <li>Menu-item 3</li>
+</body>
+</html>
