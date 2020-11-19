@@ -1,1 +1,11 @@
+The main goal of the website is to calculate prices based on different products. For example : An supermarket.
+
+
+If  "products"
+          calculate
+            "correct answer"
+Else "products"
+          give error
+              "wrong answer"
+
 
