@@ -8,7 +8,7 @@
   </head>
   <body>
     <form action="index.php" method="get"><!-- dit laten staan! -->
-
+    <a href="producten.php">producten</a>
     <p>Op deze website kun je checken welk datatype je hebt ingevoerd.</p>
     <p>Vul hieronder een getal, een decimaal, een tekst of de tekst true/false in en klik op check!</p> 
     <input type="text" name="input"><!-- dit laten staan! -->
