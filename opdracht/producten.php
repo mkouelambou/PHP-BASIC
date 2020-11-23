@@ -26,6 +26,45 @@
                 <td>peren</td>
                 <td>0,30</td>
             </tr>
+            <tr>
+                <td>2</td>
+                <td>bananen</td>
+                <td>0,80</td>
+          </tr>
+          <tr>
+                <td>3</td>
+                <td>mango's</td>
+                <td>0,95</td>
+        </tr>
+        <tr>
+                <td>4</td>
+                <td>druiven</td>
+                <td>1,25</td>
+        </tr>
+        <tr>
+                <td>5</td>
+                <td>melk</td>
+                <td>0,75</td>  
+        </tr>
+        <tr>
+                <td>6</td>
+                <td>kaas</td>
+                <td>1,50</td> 
+        </tr>
+        <tr>
+                <td>7</td>
+                <td>bloemkool</td>
+                <td>1,75</td>
+        </tr>
+        <tr>
+                <td>8</td>
+                <td>tomaat</td>
+                <td>1,10</td>
+        </tr>
+        <tr>
+                <td>9</td>
+                <td>sla</td>
+                <td>2,00</td>
         </table>
 
     <p>Vul hieronder het productnummer in van het product wat je wilt bestellen en de hoeveelheid.</p> 
